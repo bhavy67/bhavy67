@@ -9,22 +9,14 @@ I'm an aspiting Web Developer.
 - 📩 bhavy.ladani6701@gmail.com
 - 📱  +91-8780822212
 - ⚡ Portfolio: https://bhavy67.github.io/portfolio/
-  
-
-
-
-
-
-## I'm a Web Developer and a constant learner!!
-
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to travel and read books.
 
 
 ### Connect with me:
 
-[<img align="left" alt="Bhavy" width="22px" src="https://bhavy67.github.io/portfolio/" />][website]
-[<img align="left" alt="Bhavy | LinkedIn" width="22px" src="https://www.linkedin.com/in/bhavyladani/" />][linkedin]
+[<img align="left" alt="Bhavy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Bhavy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -53,10 +45,10 @@ I'm an aspiting Web Developer.
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bhavy67&show_icons=true&hide_border=true" />
+  <img align="left" alt="Bhavy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bhavy67&show_icons=true&theme=radical" />
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://bhavy67.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/bhavyladani/
 
