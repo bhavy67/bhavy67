@@ -40,13 +40,11 @@ I'm an aspiting Web Developer.
 
 ---
 
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Bhavy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bhavy67&show_icons=true&theme=radical" />
 
-</details>
+
 
 [website]: https://bhavy67.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/bhavyladani/
