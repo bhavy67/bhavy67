@@ -1,7 +1,5 @@
-                                                              ### Hey there, I'm Bhavy 👋
-
-
-I'm an aspiting Web Developer.
+<h1 align="center">Hola 👋, I'm Bhavy</h1>
+<h3 align="center">An aspiring Web Developer</h3>
 
 
 - 🔭 I’m currently working on MERN Stack
