@@ -1,4 +1,4 @@
-                                                                    ### Hey there, I'm Bhavy 👋
+                                                              ### Hey there, I'm Bhavy 👋
 
 
 I'm an aspiting Web Developer.
@@ -6,8 +6,7 @@ I'm an aspiting Web Developer.
 
 - 🔭 I’m currently working on MERN Stack
 - 🔗 My Github Profile: https://github.com/bhavy67
-- 📩 bhavy.ladani6701@gmail.com
-- 📱  +91-8780822212
+- 📩 Email: bhavy.ladani6701@gmail.com
 - ⚡ Portfolio: https://bhavy67.github.io/portfolio/
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to travel and read books.
