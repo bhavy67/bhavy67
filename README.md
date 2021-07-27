@@ -2,8 +2,6 @@
 <h3 align="center">Welcome to my Profile</h3>
 
 
-![Red and Purple Motivational Quotes LinkedIn Banner](https://user-images.githubusercontent.com/72437723/121767207-8b618100-cb74-11eb-9cea-31e9d25cf92e.png)
-
 
 - 🔭 I’m currently working on MERN Stack
 - 🔗 My Github Profile: https://github.com/bhavy67
