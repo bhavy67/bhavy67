@@ -7,7 +7,7 @@
 - 📩 Email: bhavy.ladani6701@gmail.com
 - ⚡ Portfolio: [https://bhavy67.github.io/portfolio/](https://bhavy67.github.io/portfolio/)
 - 👨‍💻 Connect with me on LinkedIn: [https://www.linkedin.com/in/bhavyladani/](https://www.linkedin.com/in/bhavyladani/)
-- ⚡ Fun fact: I love to travel and read books and I code in light theme.
+- ⚡ Fun fact: I love to travel and read books.
 
 
 ### Some of my handles:
