@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m a Software Developer and a frontend enthusiast.
 - 📩 Email: bhavy.ladani6701@gmail.com
 - ⚡ Portfolio: [https://bhavy67.github.io/](https://bhavy67.github.io/)
 - 👨‍💻 Connect with me on LinkedIn: [https://www.linkedin.com/in/bhavyladani/](https://www.linkedin.com/in/bhavyladani/)
