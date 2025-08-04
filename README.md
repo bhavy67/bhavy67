@@ -14,7 +14,6 @@
 - 📫 Reach me at: **bhavy.ladani6701@gmail.com**
 - 🌐 Portfolio: [bhavy67.github.io](https://bhavy67.github.io)
 - 💼 LinkedIn: [linkedin.com/in/bhavyladani](https://linkedin.com/in/bhavyladani)
-- ✈️ Fun Fact: I collect stamps from every airport I’ve flown through (yes, really ✈️📬)
 
 ---
 
