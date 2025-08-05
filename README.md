@@ -58,6 +58,13 @@
 
 ---
 
+### 📝 Blog Posts
+
+- [CSR vs SSR](https://bhavycodes.hashnode.dev/csr-vs-ssr-in-react)
+- [Debouncing and Throttling](https://bhavycodes.hashnode.dev/mastering-debouncing-and-throttling-in-javascript-a-frontend-developers-complete-guide)
+
+---
+
 ### 🌟 Featured Projects
 
 🧭 **[Klimate – Weather App](https://klimate-bhavy.vercel.app/)**  
