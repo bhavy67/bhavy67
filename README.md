@@ -5,15 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1200&duration=900&color=F97316&center=true&vCenter=true&width=500&lines=Deploy.+Pray.+Repeat.;It+worked+on+my+machine.;One+more+commit.+I+swear.;Move+fast.+Break+everything.;Code.+Coffee.+Cry.+Repeat.;It%E2%80%99s+not+a+bug,+it%E2%80%99s+a+feature.;Will+fix+in+prod.;Just+one+more+console.log%E2%80%A6" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ### 🧠 About Me
 
-- 🚀 Software Developer | Frontend Enthusiast
-- 📫 Reach me at: **bhavy.ladani6701@gmail.com**
-- 🌐 Portfolio: [bhavy67.github.io](https://bhavy67.github.io)
-- 💼 LinkedIn: [linkedin.com/in/bhavyladani](https://linkedin.com/in/bhavyladani)
+- 🚀 Software Developer | Frontend Enthusiast  
+- 📫 Reach me at: **bhavy.ladani6701@gmail.com**  
+- 🌐 Portfolio: [bhavy67.github.io](https://bhavy67.github.io)  
+- 💼 LinkedIn: [linkedin.com/in/bhavyladani](https://linkedin.com/in/bhavyladani)  
+- 🧩 LeetCode: [leetcode.com/bhavy67](https://leetcode.com/bhavy67)  
+- 📘 GeeksforGeeks: [geeksforgeeks.org/user/bhavyladani](https://www.geeksforgeeks.org/user/bhavyladani/)
 
 ---
 
