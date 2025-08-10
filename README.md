@@ -76,9 +76,6 @@ Type-safe, responsive, fast, with light/dark mode.
 Draw, undo, download—powered by **Canvas API**.  
 Custom text color, background, font size & more.
 
-🧮 **AI Splitwise Clone** *(Coming soon)*  
-Next-gen bill-splitting tool with **AI smart grouping**, built with **Convex, Clerk, and Next.js 15**.
-
 ---
 
 ### 📈 GitHub Stats
