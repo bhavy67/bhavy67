@@ -76,8 +76,9 @@ Type-safe, responsive, fast, with light/dark mode.
 Draw, undo, download—powered by **Canvas API**.  
 Custom text color, background, font size & more.
 
-**[Finance Tracker]** 
-Finance Tracker coming soon...
+💰 **[Finance Tracker](https://bhavy67.github.io/finance-tracker/)**  
+Track income & expenses with a clean, intuitive UI.  
+Built with **HTML + CSS + JavaScript**, featuring persistent storage via **localStorage**.
 
 ---
 
