@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🚀 Software Developer | Frontend Enthusiast  
+- 🚀 Software Developer | Tech Enthusiast  
 - 📫 Reach me at: **bhavy.ladani6701@gmail.com**  
 - 🌐 Portfolio: [bhavy67.github.io](https://bhavy67.github.io)  
 - 💼 LinkedIn: [linkedin.com/in/bhavyladani](https://linkedin.com/in/bhavyladani)  
