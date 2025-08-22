@@ -104,7 +104,3 @@ Built with **HTML + CSS + JavaScript**, featuring persistent storage via **local
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhavy67&style=flat-square&color=orange" alt="bhavy67" />
 </p>
-
-<p>
-  
-</p>
