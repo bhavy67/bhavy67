@@ -80,6 +80,16 @@ Custom text color, background, font size & more.
 Track income & expenses with a clean, intuitive UI.  
 Built with **HTML + CSS + JavaScript**, featuring persistent storage via **localStorage**.
 
+
+🌗 **Light Deemer — Browser Extension (Chrome)**  
+A lightweight, production-ready Chrome extension I designed to reduce eye strain by dimming harsh white or very-bright areas on web pages while preserving content clarity.  
+**Key features**
+- Adjustable **intensity** slider (0.0–1.0) and **overlay color** (default: black).  
+- **Exclude videos** option so video frames (YouTube, embedded players) remain undimmed.  
+- Built using **TypeScript**, Chrome Extension Manifest V3, content scripts + service worker.  
+- Includes accessibility-friendly popup UI and an options page for advanced controls and whitelist management.  
+Repository : [github.com/bhavy67/light-deemer](https://github.com/bhavy67/light-deemer)
+
 ---
 
 ### 📈 GitHub Stats
