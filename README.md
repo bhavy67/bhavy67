@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Bhavy 👋</h1>
-<h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
+<h3 align="center">A Software Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1200&duration=900&color=F97316&center=true&vCenter=true&width=500&lines=Deploy.+Pray.+Repeat.;It+worked+on+my+machine.;One+more+commit.+I+swear.;Move+fast.+Break+everything.;Code.+Coffee.+Cry.+Repeat.;It%E2%80%99s+not+a+bug,+it%E2%80%99s+a+feature.;Will+fix+in+prod.;Just+one+more+console.log%E2%80%A6" alt="Typing SVG" />
