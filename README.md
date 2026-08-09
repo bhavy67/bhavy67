@@ -11,7 +11,7 @@
 
 - 🚀 Software Developer | Tech Enthusiast  
 - 📫 Reach me at: **bhavy.ladani6701@gmail.com**  
-- 🌐 Portfolio: [bhavyladani.vercel.app](https://bhavyladani.vercel.app)  
+- 🌐 Portfolio: [bhavyladani.vercel.app](https://bhavyladani.tech/)  
 - 💼 LinkedIn: [linkedin.com/in/bhavyladani](https://linkedin.com/in/bhavyladani)  
 - 🧩 LeetCode: [leetcode.com/bhavy67](https://leetcode.com/bhavy67)  
 - 📘 GeeksforGeeks: [geeksforgeeks.org/user/bhavyladani](https://www.geeksforgeeks.org/user/bhavyladani/)
