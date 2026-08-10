@@ -1,116 +1,126 @@
-<h1 align="center">Hey there, I'm Bhavy 👋</h1>
-<h3 align="center">A Software Developer from India 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1200&duration=900&color=F97316&center=true&vCenter=true&width=500&lines=Deploy.+Pray.+Repeat.;It+worked+on+my+machine.;One+more+commit.+I+swear.;Move+fast.+Break+everything.;Code.+Coffee.+Cry.+Repeat.;It%E2%80%99s+not+a+bug,+it%E2%80%99s+a+feature.;Will+fix+in+prod.;Just+one+more+console.log%E2%80%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=650&lines=Browser+fingerprints+don%27t+lie.;60%2B+tools.+Zero+backend.;Ship.+Iterate.+Repeat.;Full-stack+with+a+frontend+soul.;Building+tools+devs+actually+use.;It%27s+not+a+bug%2C+it%27s+undocumented+behavior.;One+more+console.log%E2%80%A6;Privacy-first.+Always." alt="Typing SVG" />
+
+<h1>Bhavy Ladani</h1>
+<h3>Software Developer &nbsp;·&nbsp; India 🇮🇳</h3>
+
+<p>
+  <a href="https://bhavyladani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/bhavyladani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://peerlist.io/bhavyladani"><img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white"/></a>&nbsp;
+  <a href="mailto:bhavy.ladani6701@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=bhavy67&style=flat-square&color=F97316" alt="Profile Views"/>
+
+</div>
 
 ---
 
-### 🧠 About Me
+### ⚡ About Me
 
-- 🚀 Software Developer | Tech Enthusiast  
-- 📫 Reach me at: **bhavy.ladani6701@gmail.com**  
-- 🌐 Portfolio: [bhavyladani.vercel.app](https://bhavyladani.tech/)  
-- 💼 LinkedIn: [linkedin.com/in/bhavyladani](https://linkedin.com/in/bhavyladani)  
-- 🧩 LeetCode: [leetcode.com/bhavy67](https://leetcode.com/bhavy67)  
-- 📘 GeeksforGeeks: [geeksforgeeks.org/user/bhavyladani](https://www.geeksforgeeks.org/user/bhavyladani/)
+I'm a software developer who gravitates toward frontend-heavy work but goes full-stack when needed. I build tools that are actually useful — 60+ browser utilities, browser fingerprint demos, anonymous messaging apps, local Claude Code analytics, Chrome extensions. If it solves a real problem and ships cleanly, I'm in.
+
+- 🔭 Currently building &nbsp;→&nbsp; **Figuring out one at a time...**
+- 🧠 Interests &nbsp;→&nbsp; privacy tech, developer tooling, full-stack web apps
+- 📍 Based in &nbsp;→&nbsp; India 🇮🇳
+- 📫 Reach me &nbsp;→&nbsp; **bhavy.ladani6701@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
 **Frontend**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![Ext JS](https://img.shields.io/badge/-Ext%20JS-black?style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Shadcn](https://img.shields.io/badge/-Shadcn-black?style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
-![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=mui)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-black?style=flat-square)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socket.io)
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-**Programming Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-
-**State Management & Libraries**  
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![RxJS](https://img.shields.io/badge/-RxJS-black?style=flat-square&logo=rxjs)
+**State & Libraries**  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=bitbucket)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
-![JIRA](https://img.shields.io/badge/-JIRA-black?style=flat-square&logo=jira)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 
 ---
 
-### 📝 Blog Posts
+### 🚀 Featured Projects
 
-- [CSR vs SSR](https://bhavycodes.hashnode.dev/csr-vs-ssr-in-react)
-- [Debouncing and Throttling](https://bhavycodes.hashnode.dev/mastering-debouncing-and-throttling-in-javascript-a-frontend-developers-complete-guide)
+📊 **[Claude Dashboard](https://github.com/bhavy67/claude-dashboard)**  
+Local analytics dashboard for Claude Code sessions — tracks token usage, costs, 52-week activity heatmaps, model distribution, and project rankings. Everything stays on your machine.  
+`React` `TypeScript` `Node.js` &nbsp;·&nbsp; npm: `claude-usage-stats`
 
 ---
 
-### 🌟 Featured Projects
+🔬 **[Browser Autopsy](https://browserautopsy.vercel.app)**  
+An educational deep-dive into browser privacy vulnerabilities — canvas fingerprinting, audio fingerprinting, WebRTC IP leaks, GPU identification, CPU/RAM profiling, and more. No cookies, no logins — just raw exposure.  
+`React 19` `TypeScript` `Tailwind CSS` `Vite` `Custom Fingerprint Hooks`
 
-🧭 **[Klimate – Weather App](https://klimate-bhavy.vercel.app/)**  
-Modern weather app using **Next.js + Recharts + Shadcn**.  
-Type-safe, responsive, fast, with light/dark mode.
+---
 
-🖋️ **[Signature Generator](https://signature-bhavy.vercel.app/)**  
-Draw, undo, download—powered by **Canvas API**.  
-Custom text color, background, font size & more.
+⚡ **[KwikTools](https://kwiktools.vercel.app)**  
+60+ lightning-fast developer utilities running entirely in your browser — JSON/CSV converters, hash generators, QR codes, text tools, calculators, and more. No signup. No tracking. No backend.  
+`React` `TypeScript` `Zustand` `Tailwind CSS` `Vite`
 
-💰 **[Finance Tracker](https://bhavy67.github.io/finance-tracker/)**  
-Track income & expenses with a clean, intuitive UI.  
-Built with **HTML + CSS + JavaScript**, featuring persistent storage via **localStorage**.
+---
 
+🌤️ **[Klimate](https://klimate-bhavy.vercel.app)**  
+Sleek weather app with city search, 5-day forecasts, interactive trend charts, and full dark/light mode support.  
+`Next.js` `TypeScript` `Recharts` `shadcn/ui`
 
-🌗 **Light Deemer — Browser Extension (Chrome)**  
-A lightweight, production-ready Chrome extension I designed to reduce eye strain by dimming harsh white or very-bright areas on web pages while preserving content clarity.  
-**Key features**
-- Adjustable **intensity** slider (0.0–1.0) and **overlay color** (default: black).  
-- **Exclude videos** option so video frames (YouTube, embedded players) remain undimmed.  
-- Built using **TypeScript**, Chrome Extension Manifest V3, content scripts + service worker.  
-- Includes accessibility-friendly popup UI and an options page for advanced controls and whitelist management.  
-Repository : [github.com/bhavy67/light-deemer](https://github.com/bhavy67/light-deemer)
+---
+
+🎯 **[Kanban](https://bhavy-kanban.vercel.app)**  
+Full-featured task manager with drag-and-drop boards, subtask tracking, priority levels, dark/light themes, pagination, and SSR support.  
+`Angular 17` `Angular CDK` `Tailwind CSS` `Express.js`
+
+---
+
+🖥️ **[Custom Code Editor](https://customcodeeditor.vercel.app)**  
+Browser-based editor for HTML, CSS, and JavaScript with live preview, colored console output, keyboard shortcuts (`Ctrl+S` / `Ctrl+Enter`), and local project persistence.  
+`JavaScript` `Ace Editor` `CSS3 Glassmorphism`
+
+---
+
+💡 **[Light Deemer](https://github.com/bhavy67/light-deemer)**  
+Chrome extension (Manifest V3) that dims harsh white/bright areas on any webpage with adjustable intensity, custom overlay color, and an option to exclude video frames.  
+`TypeScript` `Chrome MV3` `Content Scripts` `Service Worker`
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhavy67&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy67&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhavy67&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy67&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/bhavyladani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/bhavyladani" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="mailto:bhavy.ladani6701@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhavy67&style=flat-square&color=orange" alt="bhavy67" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavy67&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
