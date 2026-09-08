@@ -6,9 +6,8 @@
 <h3>Software Developer &nbsp;·&nbsp; India 🇮🇳</h3>
 
 <p>
-  <a href="https://bhavyladani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+  <a href="https://bhavyladani.in/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
   <a href="https://linkedin.com/in/bhavyladani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://peerlist.io/bhavyladani"><img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white"/></a>&nbsp;
   <a href="mailto:bhavy.ladani6701@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -20,7 +19,13 @@
 
 ### ⚡ About Me
 
-I'm a software developer who gravitates toward frontend-heavy work but goes full-stack when needed. I build tools that are actually useful — 60+ browser utilities, browser fingerprint demos, anonymous messaging apps, local Claude Code analytics, Chrome extensions. If it solves a real problem and ships cleanly, I'm in.
+I'm a **Frontend-focused Software Engineer** with experience building production applications using React, Angular, TypeScript and modern web technologies.
+
+I enjoy working on problems where **performance, architecture, scalability and user experience** come together.
+
+My experience includes reusable frontend architecture, large-data interfaces, real-time applications, performance optimization, production debugging, and modernizing legacy applications.
+
+Currently exploring the intersection of **Software Engineering, Data and AI**.
 
 - 🔭 Currently building &nbsp;→&nbsp; **Figuring out one at a time...**
 - 🧠 Interests &nbsp;→&nbsp; privacy tech, developer tooling, full-stack web apps
@@ -67,49 +72,5 @@ I'm a software developer who gravitates toward frontend-heavy work but goes full
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-📊 **[Claude Dashboard](https://github.com/bhavy67/claude-dashboard)**  
-Local analytics dashboard for Claude Code sessions — tracks token usage, costs, 52-week activity heatmaps, model distribution, and project rankings. Everything stays on your machine.  
-`React` `TypeScript` `Node.js` &nbsp;·&nbsp; npm: `claude-usage-stats`
-
----
-
-🔬 **[Browser Autopsy](https://browserautopsy.vercel.app)**  
-An educational deep-dive into browser privacy vulnerabilities — canvas fingerprinting, audio fingerprinting, WebRTC IP leaks, GPU identification, CPU/RAM profiling, and more. No cookies, no logins — just raw exposure.  
-`React 19` `TypeScript` `Tailwind CSS` `Vite` `Custom Fingerprint Hooks`
-
----
-
-⚡ **[KwikTools](https://kwiktools.vercel.app)**  
-60+ lightning-fast developer utilities running entirely in your browser — JSON/CSV converters, hash generators, QR codes, text tools, calculators, and more. No signup. No tracking. No backend.  
-`React` `TypeScript` `Zustand` `Tailwind CSS` `Vite`
-
----
-
-🌤️ **[Klimate](https://klimate-bhavy.vercel.app)**  
-Sleek weather app with city search, 5-day forecasts, interactive trend charts, and full dark/light mode support.  
-`Next.js` `TypeScript` `Recharts` `shadcn/ui`
-
----
-
-🎯 **[Kanban](https://bhavy-kanban.vercel.app)**  
-Full-featured task manager with drag-and-drop boards, subtask tracking, priority levels, dark/light themes, pagination, and SSR support.  
-`Angular 17` `Angular CDK` `Tailwind CSS` `Express.js`
-
----
-
-🖥️ **[Custom Code Editor](https://customcodeeditor.vercel.app)**  
-Browser-based editor for HTML, CSS, and JavaScript with live preview, colored console output, keyboard shortcuts (`Ctrl+S` / `Ctrl+Enter`), and local project persistence.  
-`JavaScript` `Ace Editor` `CSS3 Glassmorphism`
-
----
-
-💡 **[Light Deemer](https://github.com/bhavy67/light-deemer)**  
-Chrome extension (Manifest V3) that dims harsh white/bright areas on any webpage with adjustable intensity, custom overlay color, and an option to exclude video frames.  
-`TypeScript` `Chrome MV3` `Content Scripts` `Service Worker`
 
 ---
